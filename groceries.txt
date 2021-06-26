@@ -1,9 +1,4 @@
 Lettuce 
-Chicken 
-Beef 
-Beans 
-Onions 
-Potatoes
-Milk 
-Water
+Tomatoes 
+Broccoli
 
