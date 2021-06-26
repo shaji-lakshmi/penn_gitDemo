@@ -2,5 +2,5 @@ Lettuce
 Chicken 
 Beef 
 Beans 
-Buns
-Cheese
+Onions 
+Potatoes
