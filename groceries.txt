@@ -4,3 +4,6 @@ Beef
 Beans 
 Onions 
 Potatoes
+Milk 
+Water
+
