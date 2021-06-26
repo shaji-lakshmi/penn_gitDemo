@@ -4,3 +4,5 @@ Beef
 Beans 
 Buns
 Cheese
+Milk 
+Water
